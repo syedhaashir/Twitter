@@ -8,6 +8,8 @@ function Hi(props) {
     <div className='header'>
         <h1>Twitter</h1>
     </div>
+  
+  
     <div className='post'>
         <div className='post-header'>
           <img className='profilePhoto' src={props.pfp} alt="Profile Picture"/> 
