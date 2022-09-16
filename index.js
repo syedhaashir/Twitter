@@ -10,6 +10,8 @@ function Hi(props) {
     </div>
   
   
+  
+  
     <div className='post'>
         <div className='post-header'>
           <img className='profilePhoto' src={props.pfp} alt="Profile Picture"/> 
